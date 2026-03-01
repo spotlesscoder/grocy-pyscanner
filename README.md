@@ -1,4 +1,14 @@
-## Grocy Py Scanner
+# grocy-pyscanner
+
+-----
+-----
+> [!CAUTION]
+> This project (grocy-pyscanner, not [Grocy](https://github.com/grocy/grocy) itself) is retired, what's provided here is outdated and not maintained, use with caution.
+-----
+-----
+
+<details><summary>Original README</summary>
+
 This awesome script will allow you the user to add/remove items from the system with just a barcode scanner
 
 The script requires that you edit a few of the variables at the top of the description
@@ -57,3 +67,4 @@ I have buycott in there because they allow you to have 7 days free before they b
 12/11/2019:  Did a lot of code optimization in here to try and clean things up.  Also had to put in some error handling for Wal-Mart because they're returning what python says is invalid json so instead of the script puking and dying it now handles the error and keeps moving along.
 
 Enjoy!
+</details>
